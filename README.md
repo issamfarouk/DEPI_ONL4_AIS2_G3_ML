@@ -1,6 +1,2 @@
 # DEPI_ONL4_AIS2_G3_ML
 DEPI_ONL4_AIS2_G3_ML
-Test
-test
-test
-dfvfdsbdb
